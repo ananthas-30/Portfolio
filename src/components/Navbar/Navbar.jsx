@@ -7,7 +7,7 @@ const Navbar = () => {
 
     const[isExpanded, setExpanded] = useState(false);
 
-    const menuItems = ['Home', 'About', 'Skills', 'Projects','Contact'];
+    const menuItems = ['Home', 'About', 'Skills', 'Contact'];
 
     function handleMenu() {
 
